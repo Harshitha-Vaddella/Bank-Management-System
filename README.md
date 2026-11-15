@@ -81,3 +81,8 @@ The main objective of this project is to apply Python programming and Object-Ori
 **Harshitha Vaddella**
 
 GitHub: [Harshitha-Vaddella](https://github.com/Harshitha-Vaddella)
+
+
+## 📸 Project Screenshot
+
+![Bank Management System](project-screenshot.png)
